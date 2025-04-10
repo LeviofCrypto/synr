@@ -1,0 +1,13 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  articles/dingemanse-data-example: dingemanse-data-example.html
+  quick-start: quick-start.html
+  synr-creategroup: synr-creategroup.html
+  synr-tutorial: synr-tutorial.html
+  articles/validate-data: validate-data.html
+last_built: 2025-04-10T04:06Z
+urls:
+  reference: https://datalowe.github.io/synr/reference
+  article: https://datalowe.github.io/synr/articles
